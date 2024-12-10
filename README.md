@@ -19,11 +19,10 @@ Create your account on the 2004scape website.
 
 | World           | High Detail                                                                    | Low Detail                                                                    | Members |
 |-----------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------|
-| 1 (Central USA) | [Play Now!](https://github.com/DrMatrixBMC/Client2/?world=1&detail=high&method=0) | [Play Now!](https://2004scape.github.io/Client2/?world=1&detail=low&method=0) | No      |
-| 2 (Central USA) | [Play Now!](https://github.com/DrMatrixBMC/Client2/?world=2&detail=high&method=0) | [Play Now!](https://2004scape.github.io/Client2/?world=2&detail=low&method=0) | Yes     |
+| 1 (Central USA) | [Play Now!](https://2004scape.github.io/Client2/?world=1&detail=high&method=0) | [Play Now!](https://2004scape.github.io/Client2/?world=1&detail=low&method=0) | No      |
+| 2 (Central USA) | [Play Now!](https://2004scape.github.io/Client2/?world=2&detail=high&method=0) | [Play Now!](https://2004scape.github.io/Client2/?world=2&detail=low&method=0) | Yes     |
 | 3 (Germany)     | [Play Now!](https://2004scape.github.io/Client2/?world=3&detail=high&method=0) | [Play Now!](https://2004scape.github.io/Client2/?world=3&detail=low&method=0) | Yes     |
 | 4 (Germany)     | [Play Now!](https://2004scape.github.io/Client2/?world=4&detail=high&method=0) | [Play Now!](https://2004scape.github.io/Client2/?world=4&detail=low&method=0) | No      |
-https://github.com/DrMatrixBMC/Client2/blob/main/README.md
 ### <a href="https://2004scape.github.io/Client2/playground" target="_blank">Playground</a> - An Interactive Model Viewer
 ### <a href="https://2004scape.github.io/Client2/items" target="_blank">Items Viewer</a> - View All the Items
 ### <a href="https://2004scape.github.io/Client2/mesanim" target="_blank">Message Animation Viewer</a> - A Chat Message Animation Editor
