@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>2004Scape Client2 - May 18, 2004</h1>
+<h1>Client2 - May 18, 2004</h1>
 
-[Website](https://2004scape.org) | [Discord](https://discord.2004scape.org) | [Rune-Server](https://www.rune-server.ee/runescape-development/rs2-server/projects/701698-lost-city-225-emulation.html)
+
 
 **status: completely ported**
 
